@@ -6,7 +6,6 @@ O objetivo é otimizar simultaneamente **três funções de custo**:
 - ⏱️ **Tempo total de viagem**  
 - 💰 **Custo total de pedágios**
 
----
 
 ## 🚀 Características principais
 
